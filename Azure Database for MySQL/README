@@ -1,1 +1,30 @@
 
+# Implementación de Azure con MySQL
+
+Este documento describe los pasos para la configuración e implementación de Azure Database for MySQL y su integración con una aplicación web.
+
+##🚀 Configuración en Azure
+
+#Creación de la Base de Datos en Azure
+
+Accede a Azure Portal.
+
+Busca Azure Database for MySQL en la barra de búsqueda.
+
+Haz clic en Crear y elige "Servidor único" o "Servidor flexible" según tus necesidades.
+
+Configura:
+
+Nombre del servidor
+
+Región
+
+Tipo de plan
+
+Versión de MySQL (recomendado: 8.0)
+
+Nombre de usuario y contraseña
+
+Habilita SSL si es necesario
+
+Confirma y haz clic en Revisar + Crear.
