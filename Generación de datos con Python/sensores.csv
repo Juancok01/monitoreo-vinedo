@@ -1,0 +1,11 @@
+sensor_id,nombre,tipo,ubicacion,fecha_instalacion,activo
+1,VIÑ-238-B,calidad_aire,Parcela Este,2024-08-09,False
+2,VIÑ-813-A,calidad_aire,Parcela Este,2024-04-04,True
+3,VIÑ-182-C,presion,Parcela Oeste,2024-09-22,True
+4,VIÑ-631-B,calidad_aire,Parcela Este,2024-04-02,True
+5,VIÑ-821-C,calidad_aire,Parcela Este,2024-09-27,False
+6,VIÑ-901-C,calidad_aire,Parcela Este,2025-02-07,True
+7,VIÑ-200-B,calidad_aire,Parcela Oeste,2024-04-17,True
+8,VIÑ-528-A,temperatura,Parcela Oeste,2024-11-07,True
+9,VIÑ-652-B,humedad,Parcela Oeste,2025-02-03,True
+10,VIÑ-344-C,presion,Bodega,2024-12-01,False
